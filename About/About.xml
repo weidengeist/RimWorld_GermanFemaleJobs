@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>German Female Jobs</name>
+  <author>Weidengeist</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>weidengeist.germanfemalejobs</packageId>
+  <description>This mod supports the German language only and adds female job names to the character info panel of female persons.</description>
+</ModMetaData>

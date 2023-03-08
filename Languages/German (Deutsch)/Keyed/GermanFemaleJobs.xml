@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Art.pawnLabelFemale>Künstlerin</Art.pawnLabelFemale>
+  <BasicWorker.pawnLabelFemale>Hilfsarbeiterin</BasicWorker.pawnLabelFemale>
+  <Cleaning.pawnLabelFemale>Reinigerin</Cleaning.pawnLabelFemale>
+  <Construction.pawnLabelFemale>Bauarbeiterin</Construction.pawnLabelFemale>
+  <Cooking.pawnLabelFemale>Köchin</Cooking.pawnLabelFemale>
+  <Crafting.pawnLabelFemale>Handwerkerin</Crafting.pawnLabelFemale>
+  <Doctor.pawnLabelFemale>Ärztin</Doctor.pawnLabelFemale>
+  <Firefighter.pawnLabelFemale>Feuerwehrfrau</Firefighter.pawnLabelFemale>
+  <Growing.pawnLabelFemale>Feldarbeiterin</Growing.pawnLabelFemale>
+  <Handling.pawnLabelFemale>Tierpflegerin</Handling.pawnLabelFemale>
+  <Hauling.pawnLabelFemale>Trägerin</Hauling.pawnLabelFemale>
+  <Hunting.pawnLabelFemale>Jägerin</Hunting.pawnLabelFemale>
+  <Mining.pawnLabelFemale>Bergarbeiterin</Mining.pawnLabelFemale>
+  <Patient.pawnLabelFemale>Patientin</Patient.pawnLabelFemale>
+  <PatientBedRest.pawnLabelFemale>Betthüterin</PatientBedRest.pawnLabelFemale>
+  <PlantCutting.pawnLabelFemale>Waldarbeiterin</PlantCutting.pawnLabelFemale>
+  <Research.pawnLabelFemale>Forscherin</Research.pawnLabelFemale>
+  <Smithing.pawnLabelFemale>Schmiedin</Smithing.pawnLabelFemale>
+  <Tailoring.pawnLabelFemale>Schneiderin</Tailoring.pawnLabelFemale>
+  <Warden.pawnLabelFemale>Wärterin</Warden.pawnLabelFemale>
+  
+</LanguageData>
